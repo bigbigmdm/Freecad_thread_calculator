@@ -1,0 +1,4 @@
+.panel{float:right;margin:10px;padding:10px;border-radius:10px;box-shadow:4px 4px 8px 1px rgba(50, 50,50, 0.74);}
+input[type="range"]{width: 96%;}
+#set{width:11em;}
+#resultn, #resultb{width: 15em; height: 34em;}
