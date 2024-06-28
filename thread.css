@@ -1,4 +1,12 @@
-.panel{float:right;margin:10px;padding:10px;border-radius:10px;box-shadow:4px 4px 8px 1px rgba(50, 50,50, 0.74);}
+#cont { 
+      display:flex;
+            align-items: center; 
+            justify-content: center; 
+            color: green; 
+            font-size: 50; 
+        }
+.panel{margin:10px;padding:10px;border-radius:10px;box-shadow:4px 4px 8px 1px rgba(50, 50,50, 0.74);min-width:16.5em;}
 input[type="range"]{width: 96%;}
-#set{width:11em;}
-#resultn, #resultb{width: 15em; height: 34em;}
+#set, #eximg{min-width: 11em; width:11em !important;}
+#eximg{height:15em;}
+#resultn, #resultb{height:34em;}
