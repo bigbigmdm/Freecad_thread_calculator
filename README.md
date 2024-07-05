@@ -7,7 +7,7 @@ When you need to add a threaded hole on your product in [FreeCad](https://github
 
 Then you need to create a helix (If you want to add a protruding thread it will be the Additive helix tool - ![Additive](/img/helix_plus.png), if you want to cut a thread in a hole it will be the Subtractive Helix tool - ![Subtractive](/img/helix_minus.png). Here you have to specify the thread pitch and length and press the execute button. 
 
-This tool allows you to show a drawing of the thread profile with dimensions. To use it, just select the thread outside diameter and pitch, then press the `Calculate` button and you will get four different drawings - yellow for a nut with Additive helix tool ![Additive](/img/helix_plus.png) tool, red for a nut with Subtractive Helix tool ![Subtractive](/img/helix_minus.png) tool, yellow for a bolt with ![Additive](/img/helix_plus.png) tool and red for a bolt with Subtractive Helix tool ![Subtractive](/img/helix_minus.png) tool.
+This tool allows you to show a drawing of the thread profile with dimensions. To use it, just select the thread outside diameter and pitch, then press the `Calculate` button and you will get four different drawings - yellow for a nut with Additive helix tool ![Additive](/img/helix_plus.png) tool, red for a nut with Subtractive Helix tool ![Subtractive](/img/helix_minus.png) tool, yellow for a bolt with Additive helix tool ![Additive](/img/helix_plus.png) tool and red for a bolt with Subtractive Helix tool ![Subtractive](/img/helix_minus.png) tool.
 
 ![Screenshot](/img/th_calc.png)
 
