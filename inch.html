@@ -1,0 +1,62 @@
+<!DOCTYPE HTML>
+<html lang="ru">
+<html>
+    <head>
+        <title>Thread tooth profile calculator</title>
+        <meta charset="utf-8">
+        <link href="thread.css" rel="stylesheet">
+    </head>
+    <body>
+        <script src="thread.js"></script>
+        <div style="text-align: center;"><h1>Thread tooth profile calculator</h1></div>
+        <br>
+        <div id="cont">
+            <div>
+            <div id="set" class="panel" style="height: 17em;">
+                <form>
+                <label>Standard:</label>
+                <br>
+                <b>Metric </b><a href="index.html"><img alt="metric" src="img/switch1.png"></a><b> Inch</b>
+                <br>
+                <br>
+                <label for="isize" >Thread size</label>
+                <input type="range" id="ivolsize" name="ivolsize" min="0" max="17" step="1" value="4" list="isval" onchange="isizechange()"/>
+                <br>
+                <div style="display: block;width:96%;text-align: center;">
+                  <input type="button" id="isd" value="▼" onclick="isdec()">
+                  <input id="isize" type="text" name="Thread_size" size="6" maxlength="5" value="1/2" onchange="mansize()"> '
+                  <input type="button" id="isi" value="▲" onclick="isinc()">
+                  <br>
+                  <br>
+                  <label for="isizemm">Thread size</label>
+                  <div style="display: block;width:96%;text-align: center;">
+                    <input id="isizemm" type="text" name="Thread_size" size="6" maxlength="5" value="20.96"> mm
+                  </div>  
+                  <label for="stepi">Thread step</label>
+                  <div style="display: block;width:96%;text-align: center;">
+                    <input id="stepi" type="text" name="Thread_step" size="6" maxlength="5" value="1.814"> mm
+                  </div>
+                </div>
+            <br>
+            <input type="button" value="Calculate" onclick="icalcthread()">
+                </form>
+            </div>
+            <div class="panel" id="eximg">
+                <img src="gt.png" alt="example" width="175px" height="240px;">
+            </div>
+            </div>
+            <div id="resultn" class="panel" >
+                <div id="img3">                    
+                </div>
+            </div>
+            <div id="resultb" class="panel" >
+                <div id="img4">                    
+                </div>
+            </div>
+            <br>
+            
+        </div>
+        <p style="text-align: center;">How to use - view the <a href="https://github.com/bigbigmdm/Freecad_thread_calculator/blob/main/README.md" target="_blank">readme</a>.</p>
+        <p style="text-align: center;">Created in 2024 by <a href="https://github.com/bigbigmdm" target="_blank">Mikhail Medvedev</a>.</p>    
+    </body>
+</html>
