@@ -7,5 +7,5 @@ Freecad_thread_calculator in easy thread tooth profile calculator for Freecad he
 
 ![Screenshot](/img/helix_minus.png)
 
-![Screenshot](/img/th_gaika.png)
+![Screenshot](/img/th_gaika.jpg)
 
