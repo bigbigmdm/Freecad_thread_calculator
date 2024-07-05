@@ -3,7 +3,7 @@ Freecad_thread_calculator in easy thread tooth profile calculator for Freecad he
 
 ![Example](/img/th_gaika.jpg)
 
-When you need to add a threaded hole on your product in FreeCad you need to create the hole using a circle and draw the thread profile in a plane perpendicular to that circle. For example, if the circle is created in the `XY` plane, the tooth profile must be drawn in the `XZ` plane. 
+When you need to add a threaded hole on your product in [FreeCad](https://github.com/FreeCAD/FreeCAD) you need to create the hole using a circle and draw the thread profile in a plane perpendicular to that circle. For example, if the circle is created in the `XY` plane, the tooth profile must be drawn in the `XZ` plane. 
 
 Then you need to create a helix (If you want to add a protruding thread it will be the Additive helix tool - ![Additive](/img/helix_plus.png), if you want to cut a thread in a hole it will be the Subtractive Helix tool - ![Subtractive](/img/helix_minus.png). Here you have to specify the thread pitch and length and press the execute button. 
 
