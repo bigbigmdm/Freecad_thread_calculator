@@ -15,6 +15,8 @@ To use the tool - visit the web version of this repository [here](https://bigbig
 
 Examples of calculator operation for 0.5 inch size:
 
+![Screenshot](/img/tst05inch-0.png)
+
 ![Screenshot](/img/tst05inch-1.jpg)
 
 ![Screenshot](/img/tst05inch-2.jpg)
