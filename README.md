@@ -9,9 +9,9 @@ Then you need to create a helix (If you want to add a protruding thread it will 
 
 This tool allows you to show a drawing of the thread profile with dimensions. To use it, just select the thread outside diameter and pitch, then press the `Calculate` button and you will get four different drawings - yellow for a nut with Additive helix tool ![Additive](/img/helix_plus.png) tool, red for a nut with Subtractive Helix tool ![Subtractive](/img/helix_minus.png) tool, yellow for a bolt with Additive helix tool ![Additive](/img/helix_plus.png) tool and red for a bolt with Subtractive Helix tool ![Subtractive](/img/helix_minus.png) tool.
 
-![Screenshot](/img/th_calc-m.png)
+![Screenshot](/img/th-calc-m.png)
 
-![Screenshot](/img/th_calc-i.png)
+![Screenshot](/img/th-calc-i.png)
 
 To use the tool - visit the web version of this repository [here](https://bigbigmdm.github.io/Freecad_thread_calculator/).
 
