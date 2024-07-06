@@ -12,3 +12,9 @@ This tool allows you to show a drawing of the thread profile with dimensions. To
 ![Screenshot](/img/th_calc.png)
 
 To use the tool - visit the web version of this repository [here](https://bigbigmdm.github.io/Freecad_thread_calculator/).
+
+Examples of calculator operation for 0.5 inch size:
+
+![Screenshot](/img/tst05inch-1.jpg)
+
+![Screenshot](/img/tst05inch-2.jpg)
