@@ -10,3 +10,5 @@ input[type="range"]{width: 96%;}
 #set, #eximg{min-width: 11em; width:11em !important;}
 #eximg{height:15em;}
 #resultn, #resultb{height:34em;}
+#mres{margin-top: 24px;border-radius: 10px;}
+#ires{margin-top: 12px;border-radius: 10px;}
